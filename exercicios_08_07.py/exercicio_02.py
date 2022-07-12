@@ -1,0 +1,1 @@
+# 02. Elabore três scripts que mostrem a mensagem "Estou aparecendo pela <numero_de_vezes> na tela!" 10 vezes. Substitua <numero_de_vezes> pela iteração atual do loop. Utilize uma estrutura de repetição diferente em cada um dos scripts (for e while).
