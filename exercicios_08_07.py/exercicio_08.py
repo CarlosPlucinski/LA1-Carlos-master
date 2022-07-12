@@ -12,3 +12,5 @@
 # 2 x 8 = 16
 # 2 x 9 = 18
 # 2 x 10 = 20
+
+numero = int(input(f"Digite um númeri: "))
