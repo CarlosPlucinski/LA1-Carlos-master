@@ -2,5 +2,3 @@
 # Entrada:
 # 5
 # Saída: 120
-
-numero = int(input("Digite um número: "))

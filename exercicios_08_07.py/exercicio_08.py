@@ -13,4 +13,4 @@
 # 2 x 9 = 18
 # 2 x 10 = 20
 
-numero = int(input(f"Digite um número: "))
+numero = int(input(f"Digite um númeri: "))
